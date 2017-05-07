@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Bungee+Shade");
+html, body {
+  font-family: 'Bungee Shade', cursive;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+a {
+  color: #333;
+}
+
+.is-4,
+footer {
+  text-align: center;
+}
+
+footer {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 20px;
+}
+
+iframe {
+  border: 0;
+  width: auto;
+  height: 470px;
+}
